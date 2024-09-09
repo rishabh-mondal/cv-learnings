@@ -1,5 +1,5 @@
-coco_ankiita/SD2Q/Train
-coco_ankiita/SD2Q/Test
-/coco_ankiita/SD2Q/lightweight_vit_classification_model.pth
+deep_fake/SD2Q/Train
+deep_fake/SD2Q/Test
+/deep_fake/SD2Q/lightweight_vit_classification_model.pth
 lightweight_vit_classification_model.pth
 vit_classification_model.pth
