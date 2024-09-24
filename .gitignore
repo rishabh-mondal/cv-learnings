@@ -3,3 +3,4 @@ deep_fake/SD2Q/Test
 /deep_fake/SD2Q/lightweight_vit_classification_model.pth
 lightweight_vit_classification_model.pth
 vit_classification_model.pth
+data
